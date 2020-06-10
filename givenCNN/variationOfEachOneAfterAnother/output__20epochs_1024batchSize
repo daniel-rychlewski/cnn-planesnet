@@ -1,0 +1,42 @@
+Train on 25600 samples, validate on 6400 samples
+Epoch 1/20
+ - 3s - loss: 0.5327 - acc: 0.7629 - val_loss: 0.5122 - val_acc: 0.7809
+Epoch 2/20
+ - 1s - loss: 0.3500 - acc: 0.8641 - val_loss: 0.3054 - val_acc: 0.8859
+Epoch 3/20
+ - 1s - loss: 0.2766 - acc: 0.8944 - val_loss: 0.2249 - val_acc: 0.9266
+Epoch 4/20
+ - 1s - loss: 0.2386 - acc: 0.9088 - val_loss: 0.2013 - val_acc: 0.9342
+Epoch 5/20
+ - 1s - loss: 0.2087 - acc: 0.9219 - val_loss: 0.1813 - val_acc: 0.9433
+Epoch 6/20
+ - 1s - loss: 0.1880 - acc: 0.9302 - val_loss: 0.1759 - val_acc: 0.9417
+Epoch 7/20
+ - 1s - loss: 0.1710 - acc: 0.9375 - val_loss: 0.1501 - val_acc: 0.9528
+Epoch 8/20
+ - 1s - loss: 0.1556 - acc: 0.9431 - val_loss: 0.1503 - val_acc: 0.9486
+Epoch 9/20
+ - 1s - loss: 0.1447 - acc: 0.9469 - val_loss: 0.1388 - val_acc: 0.9541
+Epoch 10/20
+ - 1s - loss: 0.1379 - acc: 0.9489 - val_loss: 0.1264 - val_acc: 0.9592
+Epoch 11/20
+ - 1s - loss: 0.1316 - acc: 0.9518 - val_loss: 0.1222 - val_acc: 0.9598
+Epoch 12/20
+ - 1s - loss: 0.1296 - acc: 0.9522 - val_loss: 0.1161 - val_acc: 0.9614
+Epoch 13/20
+ - 1s - loss: 0.1206 - acc: 0.9543 - val_loss: 0.1142 - val_acc: 0.9609
+Epoch 14/20
+ - 1s - loss: 0.1202 - acc: 0.9552 - val_loss: 0.1118 - val_acc: 0.9625
+Epoch 15/20
+ - 1s - loss: 0.1174 - acc: 0.9567 - val_loss: 0.1111 - val_acc: 0.9622
+Epoch 16/20
+ - 1s - loss: 0.1132 - acc: 0.9598 - val_loss: 0.1087 - val_acc: 0.9630
+Epoch 17/20
+ - 1s - loss: 0.1091 - acc: 0.9609 - val_loss: 0.1024 - val_acc: 0.9648
+Epoch 18/20
+ - 1s - loss: 0.1073 - acc: 0.9611 - val_loss: 0.1004 - val_acc: 0.9656
+Epoch 19/20
+ - 1s - loss: 0.1059 - acc: 0.9622 - val_loss: 0.0988 - val_acc: 0.9652
+Epoch 20/20
+ - 1s - loss: 0.1045 - acc: 0.9620 - val_loss: 0.0960 - val_acc: 0.9664
+Model saved to disk.

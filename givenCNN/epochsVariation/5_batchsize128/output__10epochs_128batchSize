@@ -1,0 +1,22 @@
+Train on 25600 samples, validate on 6400 samples
+Epoch 1/10
+ - 5s - loss: 0.3355 - acc: 0.8606 - val_loss: 0.1766 - val_acc: 0.9342
+Epoch 2/10
+ - 3s - loss: 0.1861 - acc: 0.9283 - val_loss: 0.1481 - val_acc: 0.9458
+Epoch 3/10
+ - 3s - loss: 0.1419 - acc: 0.9467 - val_loss: 0.1725 - val_acc: 0.9302
+Epoch 4/10
+ - 3s - loss: 0.1172 - acc: 0.9561 - val_loss: 0.0936 - val_acc: 0.9644
+Epoch 5/10
+ - 3s - loss: 0.1021 - acc: 0.9618 - val_loss: 0.0931 - val_acc: 0.9642
+Epoch 6/10
+ - 3s - loss: 0.0913 - acc: 0.9663 - val_loss: 0.0814 - val_acc: 0.9688
+Epoch 7/10
+ - 3s - loss: 0.0800 - acc: 0.9706 - val_loss: 0.0730 - val_acc: 0.9755
+Epoch 8/10
+ - 3s - loss: 0.0718 - acc: 0.9729 - val_loss: 0.1144 - val_acc: 0.9561
+Epoch 9/10
+ - 3s - loss: 0.0662 - acc: 0.9764 - val_loss: 0.0876 - val_acc: 0.9702
+Epoch 10/10
+ - 3s - loss: 0.0590 - acc: 0.9790 - val_loss: 0.0835 - val_acc: 0.9680
+Model saved to disk.

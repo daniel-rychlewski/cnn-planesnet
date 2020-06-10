@@ -1,0 +1,31 @@
+Train on 25600 samples, validate on 6400 samples
+Epoch 1/10
+ - 4s - loss: 0.5005 - acc: 0.7641 - val_loss: 0.2964 - val_acc: 0.8897
+Epoch 2/10
+ - 1s - loss: 0.3095 - acc: 0.8748 - val_loss: 0.2281 - val_acc: 0.9145
+Epoch 3/10
+ - 1s - loss: 0.2540 - acc: 0.8990 - val_loss: 0.2205 - val_acc: 0.9144
+Epoch 4/10
+ - 1s - loss: 0.2206 - acc: 0.9125 - val_loss: 0.1935 - val_acc: 0.9241
+Epoch 5/10
+ - 1s - loss: 0.1962 - acc: 0.9231 - val_loss: 0.1947 - val_acc: 0.9227
+Epoch 6/10
+ - 1s - loss: 0.1810 - acc: 0.9287 - val_loss: 0.2027 - val_acc: 0.9203
+Epoch 7/10
+ - 1s - loss: 0.1673 - acc: 0.9341 - val_loss: 0.2277 - val_acc: 0.9044
+Epoch 8/10
+ - 1s - loss: 0.1550 - acc: 0.9386 - val_loss: 0.2086 - val_acc: 0.9178
+Epoch 9/10
+ - 1s - loss: 0.1420 - acc: 0.9458 - val_loss: 0.2276 - val_acc: 0.9083
+Epoch 10/10
+ - 1s - loss: 0.1338 - acc: 0.9484 - val_loss: 0.1969 - val_acc: 0.9214
+Model saved to disk.
+
+WARNING: The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+If you depend on functionality not listed there, please file an issue.
+
+Tensorflow Lite Model - Training accuracy: 0.9231640625
+Tensorflow Lite Model - Test accuracy: 0.92015625

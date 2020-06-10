@@ -1,0 +1,51 @@
+Train on 25600 samples, validate on 6400 samples
+Epoch 1/20
+ - 5s - loss: 0.8853 - acc: 0.4873 - val_loss: 0.5280 - val_acc: 0.7252
+Epoch 2/20
+ - 1s - loss: 0.4996 - acc: 0.7584 - val_loss: 0.3687 - val_acc: 0.8500
+Epoch 3/20
+ - 1s - loss: 0.3677 - acc: 0.8385 - val_loss: 0.2980 - val_acc: 0.8841
+Epoch 4/20
+ - 1s - loss: 0.3046 - acc: 0.8751 - val_loss: 0.2685 - val_acc: 0.8967
+Epoch 5/20
+ - 1s - loss: 0.2695 - acc: 0.8898 - val_loss: 0.2495 - val_acc: 0.9020
+Epoch 6/20
+ - 1s - loss: 0.2444 - acc: 0.9004 - val_loss: 0.2336 - val_acc: 0.9086
+Epoch 7/20
+ - 1s - loss: 0.2284 - acc: 0.9081 - val_loss: 0.2182 - val_acc: 0.9156
+Epoch 8/20
+ - 1s - loss: 0.2155 - acc: 0.9147 - val_loss: 0.2066 - val_acc: 0.9202
+Epoch 9/20
+ - 1s - loss: 0.2066 - acc: 0.9196 - val_loss: 0.1973 - val_acc: 0.9253
+Epoch 10/20
+ - 1s - loss: 0.1955 - acc: 0.9215 - val_loss: 0.1913 - val_acc: 0.9283
+Epoch 11/20
+ - 1s - loss: 0.1926 - acc: 0.9262 - val_loss: 0.1900 - val_acc: 0.9294
+Epoch 12/20
+ - 1s - loss: 0.1866 - acc: 0.9271 - val_loss: 0.1869 - val_acc: 0.9297
+Epoch 13/20
+ - 1s - loss: 0.1834 - acc: 0.9292 - val_loss: 0.1801 - val_acc: 0.9327
+Epoch 14/20
+ - 1s - loss: 0.1809 - acc: 0.9306 - val_loss: 0.1804 - val_acc: 0.9320
+Epoch 15/20
+ - 1s - loss: 0.1761 - acc: 0.9314 - val_loss: 0.1752 - val_acc: 0.9341
+Epoch 16/20
+ - 1s - loss: 0.1713 - acc: 0.9325 - val_loss: 0.1733 - val_acc: 0.9348
+Epoch 17/20
+ - 1s - loss: 0.1685 - acc: 0.9348 - val_loss: 0.1701 - val_acc: 0.9367
+Epoch 18/20
+ - 1s - loss: 0.1628 - acc: 0.9377 - val_loss: 0.1651 - val_acc: 0.9403
+Epoch 19/20
+ - 1s - loss: 0.1623 - acc: 0.9357 - val_loss: 0.1636 - val_acc: 0.9400
+Epoch 20/20
+ - 1s - loss: 0.1586 - acc: 0.9379 - val_loss: 0.1615 - val_acc: 0.9412
+Model saved to disk.
+
+WARNING: The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+If you depend on functionality not listed there, please file an issue.
+
+Tensorflow Lite Model - Training accuracy: 0.946328125
+Tensorflow Lite Model - Test accuracy: 0.94078125

@@ -1,0 +1,27 @@
+{
+  "epochs": {
+    "max": "100",
+    "default": "50",
+    "description": "Number of executions for training the model",
+    "min": "10",
+    "increment_by": "10",
+    "value": "30"
+  },
+  "quantization": {
+    "enabled": "1"
+  },
+  "batch_size": {
+    "multiply_with": "2",
+    "default": "64",
+    "description": "Number of images in RAM in one batch",
+    "min": "256",
+    "max": "8192",
+    "value": "1024"
+  },
+  "pruning": {
+    "percent_per_step": "1",
+    "percent_total_up_to": "105",
+    "enabled": "0",
+    "epochs": "10"
+  }
+}

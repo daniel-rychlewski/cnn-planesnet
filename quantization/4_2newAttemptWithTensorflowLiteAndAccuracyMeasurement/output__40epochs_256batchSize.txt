@@ -1,0 +1,91 @@
+Train on 25600 samples, validate on 6400 samples
+Epoch 1/40
+ - 4s - loss: 0.2837 - acc: 0.8789 - val_loss: 0.1765 - val_acc: 0.9320
+Epoch 2/40
+ - 2s - loss: 0.1650 - acc: 0.9366 - val_loss: 0.1457 - val_acc: 0.9452
+Epoch 3/40
+ - 2s - loss: 0.1296 - acc: 0.9516 - val_loss: 0.1452 - val_acc: 0.9453
+Epoch 4/40
+ - 2s - loss: 0.1069 - acc: 0.9594 - val_loss: 0.1889 - val_acc: 0.9263
+Epoch 5/40
+ - 2s - loss: 0.0912 - acc: 0.9666 - val_loss: 0.1083 - val_acc: 0.9594
+Epoch 6/40
+ - 2s - loss: 0.0789 - acc: 0.9701 - val_loss: 0.1145 - val_acc: 0.9564
+Epoch 7/40
+ - 2s - loss: 0.0709 - acc: 0.9744 - val_loss: 0.0933 - val_acc: 0.9622
+Epoch 8/40
+ - 2s - loss: 0.0635 - acc: 0.9772 - val_loss: 0.0935 - val_acc: 0.9648
+Epoch 9/40
+ - 2s - loss: 0.0568 - acc: 0.9806 - val_loss: 0.0782 - val_acc: 0.9706
+Epoch 10/40
+ - 2s - loss: 0.0495 - acc: 0.9824 - val_loss: 0.0645 - val_acc: 0.9733
+Epoch 11/40
+ - 2s - loss: 0.0479 - acc: 0.9828 - val_loss: 0.0641 - val_acc: 0.9755
+Epoch 12/40
+ - 2s - loss: 0.0443 - acc: 0.9849 - val_loss: 0.0643 - val_acc: 0.9748
+Epoch 13/40
+ - 2s - loss: 0.0433 - acc: 0.9849 - val_loss: 0.0617 - val_acc: 0.9764
+Epoch 14/40
+ - 2s - loss: 0.0402 - acc: 0.9867 - val_loss: 0.0614 - val_acc: 0.9753
+Epoch 15/40
+ - 2s - loss: 0.0387 - acc: 0.9872 - val_loss: 0.0678 - val_acc: 0.9770
+Epoch 16/40
+ - 2s - loss: 0.0376 - acc: 0.9872 - val_loss: 0.0594 - val_acc: 0.9759
+Epoch 17/40
+ - 2s - loss: 0.0351 - acc: 0.9880 - val_loss: 0.0689 - val_acc: 0.9752
+Epoch 18/40
+ - 2s - loss: 0.0342 - acc: 0.9877 - val_loss: 0.0609 - val_acc: 0.9745
+Epoch 19/40
+ - 2s - loss: 0.0334 - acc: 0.9891 - val_loss: 0.0589 - val_acc: 0.9772
+Epoch 20/40
+ - 2s - loss: 0.0306 - acc: 0.9902 - val_loss: 0.0539 - val_acc: 0.9788
+Epoch 21/40
+ - 2s - loss: 0.0306 - acc: 0.9895 - val_loss: 0.0542 - val_acc: 0.9788
+Epoch 22/40
+ - 2s - loss: 0.0296 - acc: 0.9903 - val_loss: 0.0538 - val_acc: 0.9803
+Epoch 23/40
+ - 2s - loss: 0.0284 - acc: 0.9914 - val_loss: 0.0519 - val_acc: 0.9806
+Epoch 24/40
+ - 2s - loss: 0.0280 - acc: 0.9907 - val_loss: 0.0538 - val_acc: 0.9811
+Epoch 25/40
+ - 2s - loss: 0.0259 - acc: 0.9920 - val_loss: 0.0525 - val_acc: 0.9808
+Epoch 26/40
+ - 2s - loss: 0.0257 - acc: 0.9919 - val_loss: 0.0527 - val_acc: 0.9802
+Epoch 27/40
+ - 2s - loss: 0.0254 - acc: 0.9923 - val_loss: 0.0556 - val_acc: 0.9808
+Epoch 28/40
+ - 2s - loss: 0.0261 - acc: 0.9918 - val_loss: 0.0528 - val_acc: 0.9802
+Epoch 29/40
+ - 2s - loss: 0.0257 - acc: 0.9920 - val_loss: 0.0526 - val_acc: 0.9805
+Epoch 30/40
+ - 2s - loss: 0.0228 - acc: 0.9929 - val_loss: 0.0509 - val_acc: 0.9817
+Epoch 31/40
+ - 2s - loss: 0.0235 - acc: 0.9932 - val_loss: 0.0520 - val_acc: 0.9811
+Epoch 32/40
+ - 2s - loss: 0.0238 - acc: 0.9923 - val_loss: 0.0510 - val_acc: 0.9809
+Epoch 33/40
+ - 2s - loss: 0.0224 - acc: 0.9926 - val_loss: 0.0506 - val_acc: 0.9809
+Epoch 34/40
+ - 2s - loss: 0.0222 - acc: 0.9936 - val_loss: 0.0516 - val_acc: 0.9820
+Epoch 35/40
+ - 2s - loss: 0.0233 - acc: 0.9931 - val_loss: 0.0508 - val_acc: 0.9805
+Epoch 36/40
+ - 2s - loss: 0.0213 - acc: 0.9938 - val_loss: 0.0499 - val_acc: 0.9822
+Epoch 37/40
+ - 2s - loss: 0.0219 - acc: 0.9934 - val_loss: 0.0504 - val_acc: 0.9814
+Epoch 38/40
+ - 2s - loss: 0.0210 - acc: 0.9940 - val_loss: 0.0511 - val_acc: 0.9814
+Epoch 39/40
+ - 2s - loss: 0.0206 - acc: 0.9939 - val_loss: 0.0508 - val_acc: 0.9817
+Epoch 40/40
+ - 2s - loss: 0.0204 - acc: 0.9945 - val_loss: 0.0501 - val_acc: 0.9817
+Model saved to disk.
+
+WARNING: The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+If you depend on functionality not listed there, please file an issue.
+
+Tensorflow Lite Model - Training accuracy: 0.9970703125
+Tensorflow Lite Model - Test accuracy: 0.9809375
